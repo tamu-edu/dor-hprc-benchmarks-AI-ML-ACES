@@ -1,2 +1,4 @@
-# The scripts which are provided in the gudiance pdf are for running BERT-Large PreTraining with MLCommons Dataset on NVIDIA H100 GPUs.
-# The scripts which are provided in the guidance pdf uses 8 CPU cores per GPU
+- The scripts which are provided in the guidance pdf are for running BERT-Large PreTraining with MLCommons Dataset on NVIDIA H100 GPUs.
+- The scripts which are provided in the guidance pdf uses 8 CPU cores per GPU
+- The calculation of throughput is computed according to guidance provided [here](https://github.com/NVIDIA/Megatron-LM/issues/755).
+- Reference code - https://github.com/NVIDIA/Megatron-LM/tree/core_r0.4.0/

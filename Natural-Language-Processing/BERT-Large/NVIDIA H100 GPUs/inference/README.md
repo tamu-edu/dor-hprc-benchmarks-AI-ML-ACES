@@ -1,2 +1,2 @@
-# The scripts which are provided in the gudiance pdf are for running BERT-Large Inference with SQuAD Dataset on NVIDIA H100 GPUs.
-# The scripts which are provided in the guidance pdf uses 1 CPU core per GPU
+- The scripts which are provided in the gudiance pdf are for running BERT-Large Inference with SQuAD Dataset on NVIDIA H100 GPUs.
+- The scripts which are provided in the guidance pdf uses 1 CPU core per GPU
